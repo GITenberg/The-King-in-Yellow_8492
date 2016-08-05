@@ -1,0 +1,53 @@
+_repo: The-King-in-Yellow_8492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: "The King in Yellow is a book of short stories by American writer Robert\
+  \ W. Chambers, first published by F. Tennyson Neely in 1895. The book is named after\
+  \ a play with the same title which recurs as a motif through some of the stories.\
+  \ The first half of the book features highly esteemed weird stories, and the book\
+  \ has been described by critics such as E. F. Bleiler, S. T. Joshi and T. E. D.\
+  \ Klein as a classic in the field of the supernatural. There are ten stories, the\
+  \ first four of which (\"The Repairer of Reputations\", \"The Mask\", \"In the Court\
+  \ of the Dragon\", and \"The Yellow Sign\") mention The King in Yellow, a forbidden\
+  \ play which induces despair or madness in those who read it. \"The Yellow Sign\"\
+  \ inspired a film of the same name released in 2001.\nThe British first edition\
+  \ was published by Chatto & Windus in 1895 (316 pages).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8492'
+  wikidata: Q1195112
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, American'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The repairer of reputations -- The mask -- The yellow sign -- The
+  Demoiselle d'Ys -- The prophets' paradise -- The Street of the Four Winds -- The
+  street of the first shell -- The street of Our Lady of the Fields -- Rue Barrée.
+title: The King in Yellow
+url: http://www.gutenberg.org/ebooks/8492
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Roi_en_jaune
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%84%D9%83_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%B5%D9%81%D8%B1
+- https://ja.wikipedia.org/wiki/%E9%BB%84%E8%A1%A3%E3%81%AE%E7%8E%8B
+- https://cs.wikipedia.org/wiki/Kr%C3%A1l_ve_%C5%BElut%C3%A9m
+- https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D9%87_%D8%B2%D8%B1%D8%AF%D9%BE%D9%88%D8%B4
+- https://de.wikipedia.org/wiki/Der_K%C3%B6nig_in_Gelb
+- https://en.wikipedia.org/wiki/The_King_in_Yellow
+- https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%84%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%A5%E0%B9%82%E0%B8%A5
+- https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%B2_%D0%B6%D1%91%D0%BB%D1%82%D0%BE%D0%BC
