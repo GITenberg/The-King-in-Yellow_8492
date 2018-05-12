@@ -1,5 +1,8 @@
 _repo: The-King-in-Yellow_8492
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chambers, Robert W. (Robert William)
@@ -20,6 +23,8 @@ description: "The King in Yellow is a book of short stories by American writer R
   \ play which induces despair or madness in those who read it. \"The Yellow Sign\"\
   \ inspired a film of the same name released in 2001.\nThe British first edition\
   \ was published by Chatto & Windus in 1895 (316 pages).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8492#The-King-in-Yellow
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
